@@ -1,6 +1,7 @@
 # 🏦 Loan Portfolio Risk Analytics
 
 A BigQuery SQL project focused on analyzing loan approval patterns, customer demographics, income behavior, and credit risk indicators.
+[![View Presentation](https://img.shields.io/badge/📄_View_Project_Deck-PDF-red?style=for-the-badge)](./Loan_Portfolio_Risk_Analytics_Presentation.pdf)
 
 ## 📌 Project Overview
 
